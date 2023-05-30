@@ -2,7 +2,7 @@
 
 <!-- [![Blog](https://img.shields.io/badge/Blog-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://www.zzjharry.com) -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zijian-zhang-b03b97171/?locale=en_US)
-[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:zzjharry@umich.com)
+[![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:zzjharry@seas.upenn.com)
 
 
 I'm Zijian, currently a graduate student studying Data Science at the university of Pennsylvania (UPenn). Previously, I obtained both my master's degree in Computer Science and Engineering my bachelor's degree with double major in Computer Science and Pure Mathematics at the University of Michigan (UMich).
